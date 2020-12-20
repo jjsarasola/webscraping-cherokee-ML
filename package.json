@@ -1,0 +1,16 @@
+{
+  "name": "web-scraper-jeep-cherokee-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan José Sarasola",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.2.0"
+  }
+}
