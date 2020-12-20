@@ -1,5 +1,5 @@
 # webscraping-cherokee-ML
-Aplicación con Puppeteer JS para hacer web scraping en Mercado Libre y traer un listado de Jeep Cherokee's en venta con los datos de la publicación.
+Aplicación con NodeJS y Puppeteer para hacer web scraping en Mercado Libre y traer un listado de Jeep Cherokee's en venta con los datos de la publicación.
 
 ## Setup - Instalar modulos:
 ```
