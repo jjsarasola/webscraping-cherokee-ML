@@ -7,7 +7,7 @@ buscarCherokees(URL)
 
 async function buscarCherokees(url) {
     //Abrimos el browser con la URL que pasamos
-    const browser = await puppeteer.launch({headless: false});
+    const browser = await puppeteer.launch({headless: false}); //Podemos ocultar el navegador si cambiamos headless a true.
     const page = await browser.newPage();
     await page.goto(url);
 
